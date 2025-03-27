@@ -3,3 +3,8 @@ build/
 out/
 dist/
 tsconfig.tsbuildinfo
+
+
+.cursor
+.nx/cache
+.nx/workspace-data
