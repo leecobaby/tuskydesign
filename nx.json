@@ -16,6 +16,9 @@
       "dependsOn": ["^clean"]
     }
   },
+  "release": {
+    "projects": ["packages/*"]
+  },
   "plugins": [
     {
       "plugin": "@nx/js/typescript",
