@@ -9,8 +9,7 @@
     "dist/**"
   ],
   "scripts": {
-    "build": "tsc --build tsconfig.lib.json",
-    "typecheck": "tsc"
+    "clean": "rimraf dist"
   },
   "keywords": [],
   "author": "",
